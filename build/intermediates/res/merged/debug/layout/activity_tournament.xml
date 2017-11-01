@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121212"
+    tools:context="com.wawan.SpotifyGame.Home">
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10dp">
+
+            <ImageButton
+
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/cup"/>
+
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:layout_width="250dp"
+                android:layout_height="45dp"
+                android:id="@+id/freepremium"
+                android:background="@drawable/freepremium"/>
+
+            <ImageButton
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:id="@+id/individual"
+                android:background="@drawable/individual"/>
+
+            <ImageButton
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:id="@+id/group"
+                android:background="@drawable/group"/>
+
+            <ImageButton
+                android:layout_width="350dp"
+                android:layout_height="45dp"
+                android:id="@+id/challenge"
+                android:background="@drawable/challenge"/>
+
+            <ImageButton
+                android:layout_width="350dp"
+                android:layout_height="45dp"
+                android:id="@+id/yourchallenge"
+                android:background="@drawable/yourchallenge"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/home"
+                android:layout_width="wrap_content"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/homeunclicked" />
+
+            <ImageButton
+                android:id="@+id/browse"
+                android:layout_width="wrap_content"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/browseunclicked" />
+
+            <ImageButton
+                android:id="@+id/search"
+                android:layout_width="wrap_content"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/searchunclicked" />
+
+            <ImageButton
+                android:id="@+id/game"
+                android:layout_width="100dp"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/gameclicked" />
+
+            <ImageButton
+                android:id="@+id/radio"
+                android:layout_width="wrap_content"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/radiounclicked" />
+
+            <ImageButton
+                android:id="@+id/library"
+                android:layout_width="wrap_content"
+                android:layout_height="59dp"
+                android:layout_weight="1"
+                android:background="@drawable/libraryunclicked" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

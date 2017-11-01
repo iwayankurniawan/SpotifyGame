@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kurni\AndroidStudioProjects\Media technology compilation\SpotifyGame\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37bbe4406c64b2f4de41a220203bc25e6401ca22">
+        <dex dex="C:\Users\kurni\AndroidStudioProjects\Media technology compilation\SpotifyGame\build\intermediates\pre-dexed\debug\unity-classes_af85a070e570fb1a5650639472f940b7697af78a.jar" />
+    </item>
+
+</items>

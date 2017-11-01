@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:117-148
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:149-174
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:70-116
+	android:versionCode
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:175-198
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:2:199-239
+application
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:3-25:17
+	android:label
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:77-109
+	android:supportsRtl
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:151-177
+	android:roundIcon
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:110-150
+	android:allowBackup
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:16-42
+	android:icon
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:43-76
+	android:banner
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:285-322
+	android:theme
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:178-219
+	android:isGame
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:263-284
+	tools:replace
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:3:220-262
+activity#com.wawan.SpotifyGame.Home
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:4:5-10:16
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:4:15-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:5:7-9:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:6:9-61
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:6:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:7:9-69
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:7:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:8:9-78
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:8:19-75
+activity#com.wawan.SpotifyGame.MusicList
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:11:5-43
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:11:15-40
+activity#com.wawan.SpotifyGame.PlayMusic
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:12:5-43
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:12:15-40
+activity#com.wawan.SpotifyGame.Game
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:13:5-38
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:13:15-35
+activity#com.wawan.SpotifyGame.tournament
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:14:5-44
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:14:15-41
+activity#com.wawan.SpotifyGame.rankings
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:15:5-42
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:15:15-39
+activity#com.wawan.SpotifyGame.results
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:16:5-17:16
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:16:15-38
+activity#com.wawan.SpotifyGame.UnityPlayerActivity
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:5-20:16
+	android:screenOrientation
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:48-86
+	android:label
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:15-47
+	android:launchMode
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:87-118
+	android:configChanges
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:119-300
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:18:301-357
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:19:7-82
+	android:value
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:19:59-79
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:19:18-58
+meta-data#unity.build-id
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:21:5-101
+	android:value
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:21:46-98
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:21:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:22:5-69
+	android:value
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:22:49-66
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:22:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:23:5-74
+	android:value
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:23:51-71
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:23:16-50
+meta-data#android.max_aspect
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:24:5-72
+	android:value
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:24:50-69
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:24:16-49
+uses-sdk
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:26:3-72
+	android:targetSdkVersion
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:26:40-69
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:26:13-39
+uses-feature#0x00020000
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:27:3-52
+	android:glEsVersion
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:27:17-49
+uses-feature#android.hardware.vulkan
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:28:3-83
+	android:required
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:28:56-80
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:28:17-55
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:29:3-65
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:29:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:30:3-106
+	android:maxSdkVersion
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:30:77-103
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:30:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:31:3-105
+	android:maxSdkVersion
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:31:76-102
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:31:20-75
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:32:3-97
+	android:required
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:32:70-94
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:32:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:33:3-88
+	android:required
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:33:61-85
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:33:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:34:3-99
+	android:required
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:34:72-96
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:34:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:35:3-108
+	android:required
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:35:81-105
+	android:name
+		ADDED from C:\Users\kurni\AndroidStudioProjects\SpotifyGame\src\main\AndroidManifest.xml:35:17-80

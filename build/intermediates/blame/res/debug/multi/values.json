@@ -1,0 +1,358 @@
+[
+    {
+        "outputFile": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 49,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 49,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 45,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 45,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 46,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 50,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 50,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 44,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 44,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 45,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 45,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 48,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endLine": 11,
+                    "endColumn": 8,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\SpotifyGame\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 136
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 49,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 49,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 45,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 45,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 46,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 50,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 50,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 44,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 44,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 45,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 45,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 48,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endLine": 11,
+                    "endColumn": 8,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Users\\kurni\\AndroidStudioProjects\\Media technology compilation\\SpotifyGame\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 136
+                    }
+                }
+            }
+        ]
+    }
+]
